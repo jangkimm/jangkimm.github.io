@@ -2,7 +2,8 @@
 layout: post
 title: post-sample
 date: 2020-01-02 19:20:23 +0900
-category: sample
+categories: [item1, item2]      # notice that there are no more than two items.
+tags: [item1, item2, ... itemN ]
 ---
 # post-sample
 > Hello!
